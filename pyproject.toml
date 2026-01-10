@@ -1,0 +1,31 @@
+[project]
+name = "pythonia"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Roberto D. Cazarin",email = "Roberto.DominquezCazarin@aa.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas (>=2.3.3,<3.0.0)"
+]
+
+[dependency-groups]
+dev = [
+    "pyclean (>=3.4.0,<4.0.0)",
+    "ruff (>=0.14.6,<0.15.0)",
+    "poethepoet (>=0.38.0,<0.39.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.poe.tasks]
+run = "python ./src/pythonia/main.py"
+format = "ruff format ./src"
+clean = "pyclean . --debris --verbose --dry-run"
