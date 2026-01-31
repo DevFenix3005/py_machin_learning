@@ -28,5 +28,6 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poe.tasks]
 run = "python ./src/pythonia/main.py"
+runWorld = "python ./src/pythonia/worldofcode.py"
 format = "ruff format ./src"
 clean = "pyclean . --debris --verbose --dry-run"

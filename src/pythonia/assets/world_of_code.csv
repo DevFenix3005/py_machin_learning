@@ -1,0 +1,101 @@
+id,sex,bdate,has_photo,has_mobile,city,followers_count,graduation,education_form,relation,education_status,langs,last_seen,occupation_type,occupation_name,life_main,people_main,career_start,career_end,result
+1,2,1995-03-12,1,1,CDMX,152,2018,full-time,1,graduated,"es,en",2026-01-30T21:33:00,work,SoftTech SA,2,2,2019,,1
+2,1,1998-07-22,1,0,Guadalajara,87,2021,full-time,2,student,"es",2026-01-29T10:11:00,university,UDG,6,6,2022,,0
+3,2,1990-11-05,0,1,Monterrey,340,2013,part-time,4,graduated,"es,en",2026-01-28T18:02:00,work,DataCorp,1,1,2014,,1
+4,1,2000-01-15,1,1,Puebla,45,2023,full-time,6,student,"es,en,fr",2026-01-30T08:55:00,university,BUAP,6,2,,,0
+5,2,1988-09-09,1,1,CDMX,1200,2011,distance,5,graduated,"es,en",2026-01-27T22:40:00,work,Freelance,8,4,2012,,1
+6,1,1997-05-01,0,0,Mérida,23,2020,full-time,1,graduated,"es",2026-01-25T13:14:00,school,Prepa 2,3,6,2021,,0
+7,2,1993-02-17,1,1,Tijuana,560,2016,full-time,7,graduated,"es,en",2026-01-30T02:01:00,work,BorderIT,5,5,2017,,1
+8,1,1999-12-30,1,0,Querétaro,78,2022,full-time,2,student,"es,en",2026-01-29T19:22:00,university,UAQ,6,1,,,0
+9,2,1985-06-10,1,1,Monterrey,890,2008,full-time,4,graduated,"es,en,de",2026-01-26T09:00:00,work,IndTech,2,1,2009,,1
+10,1,2001-04-03,0,1,CDMX,12,2024,full-time,0,student,"es",2026-01-30T12:44:00,university,IPN,6,6,,,0
+11,2,1994-08-21,1,1,León,301,2017,part-time,3,graduated,"es,en",2026-01-28T16:10:00,work,ShoesSoft,2,2,2018,,1
+12,1,1996-10-02,1,0,Guadalajara,66,2019,full-time,1,graduated,"es,en",2026-01-27T11:05:00,work,DesignMX,7,3,2020,,0
+13,2,1992-01-27,1,1,Puebla,412,2015,distance,8,graduated,"es,en,pt",2026-01-29T23:59:00,work,Consultores Puebla,5,2,2016,,1
+14,1,2002-06-14,0,0,Veracruz,5,2025,full-time,6,student,"es",2026-01-30T07:20:00,school,Prepa Norte,6,6,,,0
+15,2,1989-03-03,1,1,CDMX,1500,2012,full-time,4,graduated,"es,en",2026-01-26T20:45:00,work,BigData MX,2,4,2013,,1
+16,1,1997-11-19,1,1,Monterrey,134,2020,full-time,2,student,"es,en",2026-01-29T14:12:00,university,UANL,6,1,,,0
+17,2,1991-05-25,0,1,Querétaro,210,2014,part-time,5,graduated,"es",2026-01-28T05:33:00,work,AutoParts Qro,3,5,2015,,0
+18,1,1993-09-07,1,1,Mérida,480,2016,full-time,7,graduated,"es,en",2026-01-30T01:09:00,work,Turismo Maya,3,6,2017,,1
+19,2,1998-02-11,1,0,Toluca,54,2021,full-time,1,student,"es",2026-01-27T17:55:00,university,UAEM,6,2,,,0
+20,1,1987-12-28,1,1,CDMX,999,2010,distance,4,graduated,"es,en,it",2026-01-25T23:01:00,work,Arte Digital,7,3,2011,,1
+21,2,1994-04-14,1,1,Guadalajara,275,2017,full-time,2,graduated,"es,en",2026-01-29T09:10:00,work,CodeFactory,6,1,2018,,1
+22,1,1999-08-30,0,0,Puebla,31,2022,full-time,1,student,"es",2026-01-28T15:44:00,university,UPAEP,6,2,,,0
+23,2,1986-02-02,1,1,Monterrey,640,2009,full-time,4,graduated,"es,en",2026-01-27T22:18:00,work,InfraBuild,2,5,2010,,1
+24,1,2001-10-11,1,0,CDMX,58,2024,full-time,6,student,"es,en",2026-01-30T06:30:00,university,UNAM,6,6,,,0
+25,2,1993-07-19,1,1,Querétaro,402,2016,part-time,7,graduated,"es,en,fr",2026-01-29T18:02:00,work,AeroTech Qro,5,1,2017,,1
+26,1,1995-12-05,1,1,Mérida,150,2018,distance,1,graduated,"es",2026-01-28T12:21:00,work,Hotel Caribe,3,2,2019,,0
+27,2,1989-09-27,0,1,Tijuana,220,2012,full-time,5,graduated,"es,en",2026-01-26T20:00:00,work,LogiBorder,2,4,2013,,0
+28,1,2003-03-08,1,0,Toluca,9,2026,full-time,0,student,"es,en",2026-01-30T11:01:00,school,Colegio Toluca,6,6,,,0
+29,2,1991-06-23,1,1,CDMX,870,2014,full-time,4,graduated,"es,en,pt",2026-01-25T23:45:00,work,Finanzas MX,2,2,2015,,1
+30,1,1997-01-16,1,1,Guadalajara,133,2020,full-time,2,student,"es,en",2026-01-29T16:55:00,university,ITESO,6,1,,,1
+31,2,1984-11-09,1,1,Puebla,120,2007,distance,4,graduated,"es",2026-01-24T19:20:00,work,Taller Puebla,1,2,2008,,0
+32,1,1998-05-28,0,0,Monterrey,44,2021,full-time,6,student,"es,en",2026-01-30T02:42:00,university,UDEM,6,6,,,0
+33,2,1992-08-12,1,1,Querétaro,510,2015,full-time,8,graduated,"es,en,de",2026-01-29T21:07:00,work,AutoInnov,5,5,2016,,1
+34,1,1990-02-25,1,1,CDMX,260,2013,part-time,3,graduated,"es,en",2026-01-28T10:10:00,work,LegalSoft,2,1,2014,,1
+35,2,2000-09-01,1,0,León,73,2023,full-time,1,student,"es",2026-01-29T08:33:00,university,UGTO,6,2,,,0
+36,1,1987-04-18,1,1,Mérida,345,2010,full-time,4,graduated,"es,en,it",2026-01-26T17:49:00,work,Arte Maya,7,3,2011,,1
+37,2,1996-12-22,0,1,Tijuana,98,2019,distance,5,graduated,"es,en",2026-01-27T14:15:00,work,CallCenter TJ,3,6,2020,,0
+38,1,1994-07-07,1,1,CDMX,615,2017,full-time,7,graduated,"es,en,fr",2026-01-30T00:04:00,work,MediaLab,8,1,2018,,1
+39,2,1985-01-03,1,1,Monterrey,1400,2008,full-time,4,graduated,"es,en",2026-01-25T05:55:00,work,SteelWorks,2,4,2009,,1
+40,1,2002-11-29,0,0,Puebla,4,2025,full-time,6,student,"es",2026-01-30T09:59:00,school,Bachilleres 5,6,6,,,0
+41,2,1993-05-10,1,1,Guadalajara,288,2016,part-time,2,graduated,"es,en",2026-01-29T13:27:00,work,WebCraft,6,2,2017,,1
+42,1,1991-03-14,1,1,Querétaro,199,2014,full-time,1,graduated,"es,en",2026-01-27T18:41:00,work,RRHH Plus,1,2,2015,,0
+43,2,1999-06-06,1,0,Toluca,52,2022,full-time,6,student,"es,en",2026-01-30T07:07:00,university,UTT,6,5,,,0
+44,1,1988-10-20,1,1,CDMX,720,2011,distance,4,graduated,"es,en,pt",2026-01-26T21:30:00,work,Consulting Pro,2,1,2012,,1
+45,2,1995-02-28,0,1,León,110,2018,full-time,5,graduated,"es",2026-01-28T03:12:00,work,Manufactura León,2,5,2019,,0
+46,1,1997-09-09,1,1,Monterrey,305,2020,full-time,7,graduated,"es,en",2026-01-29T22:02:00,work,UXStudio,7,6,2021,,1
+47,2,1983-07-15,1,1,Mérida,80,2006,full-time,4,graduated,"es",2026-01-24T16:00:00,work,Escuela Centro,1,2,2007,2022,0
+48,1,2000-05-05,1,0,Puebla,27,2023,full-time,1,student,"es,en",2026-01-30T12:01:00,university,IBERO Puebla,6,1,,,0
+49,2,1992-12-01,1,1,CDMX,980,2015,full-time,8,graduated,"es,en,ja",2026-01-27T23:59:00,work,GameStudio MX,3,6,2016,,1
+50,1,1996-08-17,0,1,Guadalajara,61,2019,part-time,2,graduated,"es,en",2026-01-28T14:48:00,work,Startup GDL,6,2,2020,,0
+51,2,1987-01-21,1,1,Querétaro,455,2010,full-time,4,graduated,"es,en",2026-01-25T11:11:00,work,ConstruQro,2,5,2011,,1
+52,1,2001-03-30,1,0,Tijuana,18,2024,full-time,6,student,"es",2026-01-30T05:05:00,school,Prepa 1 TJ,6,6,,,0
+53,2,1994-11-11,1,1,Monterrey,267,2017,distance,1,graduated,"es,en",2026-01-29T20:20:00,work,SupportTech,6,2,2018,,1
+54,1,1989-06-02,1,1,CDMX,540,2012,full-time,4,graduated,"es,en,fr",2026-01-26T09:09:00,work,Editorial MX,7,1,2013,,1
+55,2,1998-04-24,0,0,Puebla,14,2021,full-time,6,student,"es",2026-01-29T01:45:00,university,UTPuebla,6,6,,,0
+56,1,1993-12-13,1,1,León,302,2016,part-time,7,graduated,"es,en",2026-01-28T19:19:00,work,Marketing León,8,3,2017,,1
+57,2,1986-08-08,1,1,Guadalajara,1500,2009,full-time,4,graduated,"es,en",2026-01-25T07:30:00,work,Enterprises GDL,2,4,2010,,1
+58,1,2002-02-14,0,0,Querétaro,6,2025,full-time,1,student,"es,en",2026-01-30T10:10:00,school,Bachilleres Qro,6,6,,,0
+59,2,1991-09-03,1,1,Tijuana,389,2014,full-time,2,graduated,"es,en",2026-01-27T15:15:00,work,DevBorder,6,1,2015,,1
+60,1,1995-07-26,1,1,CDMX,210,2018,distance,5,graduated,"es,en,pt",2026-01-29T04:44:00,work,ONG Futuro,5,2,2019,,0
+61,2,1988-05-05,1,1,Monterrey,720,2011,full-time,4,graduated,"es,en",2026-01-25T13:13:00,work,MetalWorks,2,5,2012,,1
+62,1,1999-01-27,0,0,Guadalajara,22,2022,full-time,1,student,"es",2026-01-30T08:08:00,university,CUCEI,6,2,,,0
+63,2,1994-03-09,1,1,CDMX,310,2017,part-time,2,graduated,"es,en",2026-01-29T17:17:00,work,CloudNet,6,1,2018,,1
+64,1,1985-12-12,1,1,Puebla,880,2008,distance,4,graduated,"es,en,fr",2026-01-24T22:22:00,work,Traductores MX,7,2,2009,,1
+65,2,2001-07-01,0,0,Querétaro,11,2024,full-time,6,student,"es,en",2026-01-30T06:06:00,school,Colegio Qro,6,6,,,0
+66,1,1993-10-18,1,1,León,260,2016,full-time,7,graduated,"es,en",2026-01-28T20:20:00,work,Diseño León,7,3,2017,,1
+67,2,1987-02-14,1,1,Mérida,140,2010,full-time,4,graduated,"es",2026-01-26T09:09:00,work,Escuela Maya,1,2,2011,,0
+68,1,1998-08-08,0,1,Tijuana,95,2021,part-time,2,student,"es,en",2026-01-29T02:02:00,university,UTTJ,6,1,,,0
+69,2,1991-11-30,1,1,CDMX,1333,2014,full-time,8,graduated,"es,en,ja",2026-01-27T23:23:00,work,GameForge,3,6,2015,,1
+70,1,2003-04-04,1,0,Puebla,7,2026,full-time,0,student,"es",2026-01-30T12:12:00,school,Bachilleres Sur,6,6,,,0
+71,2,1995-06-21,1,1,Guadalajara,480,2018,distance,5,graduated,"es,en",2026-01-28T14:14:00,work,Soporte GDL,2,5,2019,,0
+72,1,1989-09-09,1,1,Monterrey,520,2012,full-time,4,graduated,"es,en,it",2026-01-26T18:18:00,work,Arquitectura Norte,2,1,2013,,1
+73,2,1997-01-05,0,1,Querétaro,66,2020,full-time,1,student,"es,en",2026-01-29T11:11:00,university,TEC Qro,6,2,,,0
+74,1,1992-05-15,1,1,CDMX,305,2015,part-time,2,graduated,"es,en,pt",2026-01-28T07:07:00,work,ONG Ciudad,5,2,2016,,1
+75,2,1984-08-28,1,1,León,210,2007,full-time,4,graduated,"es",2026-01-24T16:16:00,work,Textiles León,1,2,2008,2020,0
+76,1,2000-02-02,1,0,Toluca,19,2023,full-time,6,student,"es,en",2026-01-30T05:05:00,university,UAEMex,6,6,,,0
+77,2,1993-03-17,1,1,Mérida,355,2016,full-time,7,graduated,"es,en",2026-01-27T21:21:00,work,Turismo Azul,3,6,2017,,1
+78,1,1996-11-11,0,1,Tijuana,102,2019,part-time,5,graduated,"es,en",2026-01-28T03:03:00,work,Logística TJ,2,5,2020,,0
+79,2,1988-07-07,1,1,CDMX,910,2011,full-time,4,graduated,"es,en,de",2026-01-25T10:10:00,work,Importaciones MX,2,4,2012,,1
+80,1,2002-09-23,0,0,Puebla,3,2025,full-time,1,student,"es",2026-01-30T09:09:00,school,Prepa Puebla,6,6,,,0
+81,2,1994-12-24,1,1,Guadalajara,270,2017,distance,2,graduated,"es,en",2026-01-29T19:19:00,work,Apps Factory,6,1,2018,,1
+82,1,1991-01-01,1,1,Querétaro,150,2014,full-time,1,graduated,"es,en",2026-01-27T08:08:00,work,Administración Qro,1,2,2015,,0
+83,2,1999-05-05,0,0,Monterrey,44,2022,full-time,6,student,"es,en",2026-01-29T13:13:00,university,UANL,6,6,,,0
+84,1,1986-06-16,1,1,CDMX,670,2009,full-time,4,graduated,"es,en,fr",2026-01-26T22:22:00,work,Editorial Central,7,1,2010,,1
+85,2,1995-10-10,1,1,León,188,2018,part-time,5,graduated,"es",2026-01-28T12:12:00,work,Refacciones León,2,5,2019,,0
+86,1,1998-03-03,1,0,Toluca,55,2021,full-time,2,student,"es,en",2026-01-29T01:01:00,university,TEC Toluca,6,1,,,1
+87,2,1983-11-11,1,1,Mérida,77,2006,full-time,4,graduated,"es",2026-01-24T14:14:00,work,Escuela Rural,1,2,2007,2018,0
+88,1,2001-12-31,0,0,Tijuana,8,2024,full-time,6,student,"es,en",2026-01-30T04:04:00,school,Prepa TJ Norte,6,6,,,0
+89,2,1990-09-19,1,1,CDMX,1450,2013,full-time,8,graduated,"es,en,ja",2026-01-27T20:20:00,work,Studio Pixel,3,6,2014,,1
+90,1,1994-04-01,1,1,Guadalajara,212,2017,distance,1,graduated,"es,en",2026-01-28T06:06:00,work,Recursos Humanos GDL,1,2,2018,,0
+91,2,1997-07-07,0,1,Querétaro,99,2020,full-time,2,student,"es,en",2026-01-29T15:15:00,university,UAQ,6,2,,,0
+92,1,1988-08-08,1,1,Monterrey,500,2011,full-time,4,graduated,"es,en,it",2026-01-26T17:17:00,work,Arquitectos Regios,2,1,2012,,1
+93,2,1992-02-29,1,1,Puebla,345,2015,part-time,7,graduated,"es,en,pt",2026-01-28T23:23:00,work,Eventos Puebla,3,6,2016,,1
+94,1,2003-06-06,0,0,León,2,2026,full-time,0,student,"es",2026-01-30T11:11:00,school,Prepa León Centro,6,6,,,0
+95,2,1985-05-21,1,1,CDMX,760,2008,full-time,4,graduated,"es,en",2026-01-25T09:09:00,work,Finanzas Globales,2,4,2009,,1
+96,1,1996-01-14,1,1,Mérida,185,2019,full-time,2,graduated,"es,en",2026-01-29T03:03:00,work,Desarrollo Web Yuc,6,1,2020,,1
+97,2,1999-09-09,0,0,Tijuana,15,2022,full-time,6,student,"es,en",2026-01-30T07:07:00,university,ITT,6,6,,,0
+98,1,1993-03-03,1,1,Querétaro,420,2016,distance,5,graduated,"es,en,fr",2026-01-27T12:12:00,work,ONG Verde,5,2,2017,,0
+99,2,1987-07-30,1,1,Guadalajara,999,2010,full-time,4,graduated,"es,en,de",2026-01-25T21:21:00,work,TechIndustries,2,4,2011,,1
+100,1,2000-10-10,1,0,CDMX,120,2023,full-time,2,student,"es,en,ja",2026-01-30T00:00:00,university,IPN,6,6,,,1

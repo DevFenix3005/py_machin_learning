@@ -32,13 +32,15 @@ if __name__ == "__main__":
     df["Age"] = df.apply(fill_age, axis=1)
     df["Sex"] = df["Sex"].apply(fill_sex)
 
-    df[list(pd.get_dummies(df["Embarked"]).columns)] = pd.get_dummies(df["Embarked"])
+    dummy_embarked = pd.get_dummies(df["Embarked"], prefix="Embarked")
+
+    df[list(dummy_embarked.columns)] = dummy_embarked
     df.drop("Embarked", axis=1, inplace=True)
 
     x = df.drop("Survived", axis=1)  # Datos del pasajero
     y = df["Survived"]  # Variable objetivo
 
-    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.10)
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.25)
 
     sc = StandardScaler()
     x_train = sc.fit_transform(x_train)
@@ -53,8 +55,3 @@ if __name__ == "__main__":
 
     print(percent)
     print(matrix)
-
-    for caracteristica in x_test:
-        for valor in x_test[caracteristica]:
-            print(valor)
-
